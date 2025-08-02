@@ -15,11 +15,15 @@ To remind me and you regarding the basics of oop
 
 ```
   git clone https://github.com/peterhinga/oop-learn/edit/main/README.md
+
   cd opp-learn
+
   # change direcory to what concepts you want
   cd dirX
+
   # Execute the files using python
   python3 filex.py
 
 ```
-## Welcoming any adjustments or fixes just to a pull request
+## Welcoming any adjustments or fixes just do a pull request
+
